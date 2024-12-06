@@ -1,6 +1,4 @@
-Data analysis is done in matlab with .mat files
-
-data is taken from .abf files
+event detection works with .abf files
 
 abfload.mat is required in the matlab folder
 
